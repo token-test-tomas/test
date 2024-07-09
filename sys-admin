@@ -1,5 +1,4 @@
-{
-  "children": [
+ [
     {
       "children": [
         {
@@ -1636,6 +1635,5 @@
       "text": "会员vip配置",
       "type": "icon-Crown"
     }
-  ],
-  "id": 0
-}
+  ]
+ 
