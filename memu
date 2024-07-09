@@ -1,0 +1,808 @@
+ [
+    {
+      "children": [
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "addUser-member",
+              "pid": 8,
+              "id": 186,
+              "text": "会员添加",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "transRoad-member",
+              "pid": 8,
+              "id": 187,
+              "text": "线路转移",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "highSearch-member",
+              "pid": 8,
+              "id": 188,
+              "text": "高级搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "search-member",
+              "pid": 8,
+              "id": 189,
+              "text": "搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "reset-member",
+              "pid": 8,
+              "id": 190,
+              "text": "重置",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "details-member",
+              "pid": 8,
+              "id": 191,
+              "text": "查看详情",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "detailsPage",
+              "pid": 8,
+              "id": 280,
+              "text": "用户基础信息",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "bankMessage",
+              "pid": 8,
+              "id": 281,
+              "text": "用户银行卡信息",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "totalCoin",
+              "pid": 8,
+              "id": 282,
+              "text": "账户总金额",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "withdrawDetails",
+              "pid": 8,
+              "id": 284,
+              "text": "稽核明细",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "validAmount",
+              "pid": 8,
+              "id": 285,
+              "text": "打码量明细",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "gameCoin",
+              "pid": 8,
+              "id": 286,
+              "text": "用户游戏余额查询",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "editBase",
+              "pid": 8,
+              "id": 287,
+              "text": "编辑基础信息",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "changeLoginPassword",
+              "pid": 8,
+              "id": 288,
+              "text": "修改登录密码",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "changeCoinPassword",
+              "pid": 8,
+              "id": 289,
+              "text": "修改资金密码",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "clearWithdraw",
+              "pid": 8,
+              "id": 290,
+              "text": "清空提款消费量",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "frozenUser",
+              "pid": 8,
+              "id": 291,
+              "text": "冻结用户",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "disFrozen",
+              "pid": 8,
+              "id": 292,
+              "text": "解除冻结",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "toAgent",
+              "pid": 8,
+              "id": 293,
+              "text": "转为代理",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "clearInvalidLogin",
+              "pid": 8,
+              "id": 315,
+              "text": "清空无效登录",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "clearLimitForSendMessage",
+              "pid": 8,
+              "id": 316,
+              "text": "清空发送短信限制",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "transferAgent",
+              "pid": 8,
+              "id": 405,
+              "text": "代理转移",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "editFlag",
+              "pid": 8,
+              "id": 417,
+              "text": "修改会员旗",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "clearCoin",
+              "pid": 8,
+              "id": 419,
+              "text": "清空打码量",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_memberList",
+          "pid": 3,
+          "id": 8,
+          "text": "会员列表",
+          "type": ""
+        },
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "member_reset",
+              "pid": 10,
+              "id": 47,
+              "text": "重置",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_search",
+              "pid": 10,
+              "id": 48,
+              "text": "搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "loginLog_mark",
+              "pid": 10,
+              "id": 193,
+              "text": "备注",
+              "type": "ss"
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "mark",
+              "pid": 10,
+              "id": 294,
+              "text": "用户备注",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "operation",
+              "pid": 10,
+              "id": 295,
+              "text": "操作",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_onlineCount",
+          "pid": 3,
+          "id": 10,
+          "text": "在线人数",
+          "type": ""
+        },
+        {
+          "isRaceMenu": 0,
+          "name": "route_verificatCode",
+          "pid": 3,
+          "id": 275,
+          "text": "验证码管理",
+          "type": ""
+        },
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "member_search",
+              "pid": 279,
+              "id": 308,
+              "text": "搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_reset",
+              "pid": 279,
+              "id": 309,
+              "text": "重置",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "loginLog_mark",
+              "pid": 279,
+              "id": 310,
+              "text": "备注",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "operation",
+              "pid": 279,
+              "id": 311,
+              "text": "操作",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_loginLog",
+          "pid": 3,
+          "id": 279,
+          "text": "登录日志",
+          "type": ""
+        },
+        {
+          "isRaceMenu": 0,
+          "name": "flag",
+          "pid": 3,
+          "id": 406,
+          "text": "会员旗管理",
+          "type": ""
+        },
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "details-member",
+              "pid": 441,
+              "id": 442,
+              "text": "详情",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "disFrozen",
+              "pid": 441,
+              "id": 443,
+              "text": "解除冻结",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "detailsPage",
+              "pid": 441,
+              "id": 444,
+              "text": "基础信息",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "totalCoin",
+              "pid": 441,
+              "id": 445,
+              "text": "提款账号",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "editFlag",
+              "pid": 441,
+              "id": 446,
+              "text": "修改会员旗",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "search-member",
+              "pid": 441,
+              "id": 447,
+              "text": "搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "reset-member",
+              "pid": 441,
+              "id": 448,
+              "text": "重置",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_memberFrozenList",
+          "pid": 3,
+          "id": 441,
+          "text": "会员冻结列表",
+          "type": ""
+        }
+      ],
+      "isRaceMenu": 0,
+      "name": "route_menberCenter",
+      "pid": 0,
+      "id": 3,
+      "text": "会员管理",
+      "type": "icon-copy"
+    },
+   
+    {
+      "children": [
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "member_search",
+              "pid": 15,
+              "id": 388,
+              "text": "搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_reset",
+              "pid": 15,
+              "id": 389,
+              "text": "重置",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_export",
+              "pid": 15,
+              "id": 390,
+              "text": "导出",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_details",
+              "pid": 15,
+              "id": 392,
+              "text": "团队详情",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "menber_detail_export",
+              "pid": 15,
+              "id": 393,
+              "text": "团队详情导出",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "menber_detail_search",
+              "pid": 15,
+              "id": 394,
+              "text": "团队详情搜索",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_agentList",
+          "pid": 14,
+          "id": 15,
+          "text": "代理会员列表",
+          "type": ""
+        },
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "member_search",
+              "pid": 16,
+              "id": 395,
+              "text": "搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_reset",
+              "pid": 16,
+              "id": 396,
+              "text": "重置",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_export",
+              "pid": 16,
+              "id": 397,
+              "text": "导出",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_total_coin",
+              "pid": 16,
+              "id": 398,
+              "text": "累计收益",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_commissionCoin",
+          "pid": 14,
+          "id": 16,
+          "text": "佣金收益",
+          "type": ""
+        },
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "member_search",
+              "pid": 373,
+              "id": 399,
+              "text": "搜索",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_reset",
+              "pid": 373,
+              "id": 400,
+              "text": "重置",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_export",
+              "pid": 373,
+              "id": 401,
+              "text": "导出",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_add",
+              "pid": 373,
+              "id": 402,
+              "text": "添加",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_freeze",
+              "pid": 373,
+              "id": 403,
+              "text": "冻结",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_changepwd",
+              "pid": 373,
+              "id": 404,
+              "text": "修改密码",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_transfer",
+              "pid": 373,
+              "id": 439,
+              "text": "代理转移",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 1,
+              "name": "member_clear",
+              "pid": 373,
+              "id": 440,
+              "text": "清空无效登陆",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_agentNetwork",
+          "pid": 14,
+          "id": 373,
+          "text": "代理线列表",
+          "type": ""
+        },
+        {
+          "button": [
+            {
+              "isRaceMenu": 1,
+              "name": "member_freeze",
+              "pid": 420,
+              "id": 421,
+              "text": "解冻",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_agentFreeze",
+          "pid": 14,
+          "id": 420,
+          "text": "冻结代理线列表",
+          "type": ""
+        }
+      ],
+      "isRaceMenu": 0,
+      "name": "route_agent",
+      "pid": 0,
+      "id": 14,
+      "text": "代理中心",
+      "type": "icon-Platform-sub-game-management"
+    },
+    {
+      "children": [
+        {
+          "children": [
+            {
+              "isRaceMenu": 0,
+              "name": "route_searchRecharge",
+              "pid": 25,
+              "id": 49,
+              "text": "充值审核",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_withdraw",
+              "pid": 25,
+              "id": 50,
+              "text": "财务出款",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_inandout",
+              "pid": 25,
+              "id": 361,
+              "text": "人工存提",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "fkroute_withdraw",
+              "pid": 25,
+              "id": 408,
+              "text": "提款审核",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_moneyManger",
+          "pid": 17,
+          "id": 25,
+          "text": "财务管理",
+          "type": "icon-Financial-Management"
+        },
+        {
+          "children": [
+            {
+              "isRaceMenu": 0,
+              "name": "route_moneyOut",
+              "pid": 26,
+              "id": 53,
+              "text": "提款记录",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_moneyIn",
+              "pid": 26,
+              "id": 54,
+              "text": "充值记录",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_moneyChange",
+              "pid": 26,
+              "id": 55,
+              "text": "调账记录",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_wallet",
+              "pid": 26,
+              "id": 583,
+              "text": "会员钱包记录",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_moneyRecord",
+          "pid": 17,
+          "id": 26,
+          "text": "财务记录",
+          "type": "icon-member-list"
+        },
+        {
+          "children": [
+            {
+              "isRaceMenu": 0,
+              "name": "route_paymentPlatform",
+              "pid": 27,
+              "id": 57,
+              "text": "三方平台",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_rateManagement",
+              "pid": 27,
+              "id": 363,
+              "text": "汇率配置",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_paymentInChannel",
+              "pid": 27,
+              "id": 385,
+              "text": "存款渠道",
+              "type": ""
+            },
+            {
+              "isRaceMenu": 0,
+              "name": "route_paymentOutChannel",
+              "pid": 27,
+              "id": 386,
+              "text": "取款渠道",
+              "type": ""
+            }
+          ],
+          "isRaceMenu": 0,
+          "name": "route_paymentManger",
+          "pid": 17,
+          "id": 27,
+          "text": "支付管理",
+          "type": "icon-member-list"
+        }
+      ],
+      "isRaceMenu": 0,
+      "name": "route_coin",
+      "pid": 0,
+      "id": 17,
+      "text": "财务管理",
+      "type": "icon-Financial-Center"
+    },
+    
+   
+    {
+      "children": [
+        {
+          "isRaceMenu": 0,
+          "name": "route_record",
+          "pid": 20,
+          "id": 67,
+          "text": "交易记录",
+          "type": ""
+        }
+      ],
+      "isRaceMenu": 0,
+      "name": "route_transFer",
+      "pid": 0,
+      "id": 20,
+      "text": "交易管理",
+      "type": "icon-wallet"
+    },
+    
+    {
+      "children": [
+        {
+          "isRaceMenu": 0,
+          "name": "route_allPlatRecords",
+          "pid": 22,
+          "id": 76,
+          "text": "全平台投注记录",
+          "type": ""
+        },
+        {
+          "isRaceMenu": 0,
+          "name": "route_live",
+          "pid": 22,
+          "id": 78,
+          "text": "真人投注记录",
+          "type": "icon-live"
+        },
+        {
+          "isRaceMenu": 0,
+          "name": "route_electronics",
+          "pid": 22,
+          "id": 79,
+          "text": "电子投注记录",
+          "type": "icon-slot"
+        },
+        {
+          "isRaceMenu": 0,
+          "name": "route_sports",
+          "pid": 22,
+          "id": 387,
+          "text": "体育投注记录",
+          "type": ""
+        },
+        {
+          "isRaceMenu": 0,
+          "name": "route_tables",
+          "pid": 22,
+          "id": 418,
+          "text": "真人老虎机投注记录",
+          "type": ""
+        },
+        {
+          "isRaceMenu": 0,
+          "name": "route_freeRecord",
+          "pid": 22,
+          "id": 581,
+          "text": "免费旋转投注记录",
+          "type": ""
+        }
+      ],
+      "isRaceMenu": 0,
+      "name": "route_gameRecords",
+      "pid": 0,
+      "id": 22,
+      "text": "游戏记录",
+      "type": "icon-Top-up"
+    }
+   
+  ]
+ 
