@@ -1,4 +1,5 @@
-{
+{   
+    "testE":"1",
     "globalB": "0",
     "mysqlB": "0",
     "redisB": "0",
