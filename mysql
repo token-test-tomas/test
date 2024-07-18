@@ -4,7 +4,7 @@
     "redisB": "0",
     "globalN": "0",
     "mysqlN": "0",
-    "redisN": "0",
+    "redisN": "1",
     "go-user-rpc": "0",
     "go-agent-rpc": "0",
     "go-game-rpc": "0",
