@@ -1,6 +1,6 @@
 {
     "globalB": "0",
-    "mysqlB": "1",
+    "mysqlB": "0",
     "redisB": "0",
     "globalN": "0",
     "mysqlN": "1",
