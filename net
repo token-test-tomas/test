@@ -1,0 +1,12 @@
+{
+    "globalB": "0",
+    "mysqlB": "0",
+    "redisB": "4000",
+    "go-user-rpc": "0",
+    "go-agent-rpc": "0",
+    "go-game-rpc": "0",
+    "go-cms-rpc": "0",
+    "go-platend-rpc": "0",
+    "go-gamecallback": "0",
+    "go-paycallback": "0"
+}
