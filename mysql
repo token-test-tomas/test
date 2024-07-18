@@ -1,7 +1,7 @@
 {
     "globalB": "0",
     "mysqlB": "0",
-    "redisB": "0",
+    "redisB": "8000",
     "go-user-rpc": "0",
     "go-agent-rpc": "0",
     "go-game-rpc": "0",
